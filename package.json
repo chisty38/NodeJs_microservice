@@ -1,0 +1,20 @@
+{
+  "name": "lab_04",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11",
+    "seneca": "^3.8.4",
+    "seneca-basic": "^0.6.0",
+    "seneca-entity": "^3.3.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
